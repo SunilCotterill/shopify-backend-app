@@ -9,3 +9,5 @@ To setup in local:
  4. Once run you should see the local address to access the webapp in the terminal
  5. Open link
  
+ 
+ I chose to add the item grouping feature
